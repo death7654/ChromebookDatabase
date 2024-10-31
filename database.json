@@ -1,0 +1,1802 @@
+{
+  "87": {
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_generation": "12th",
+    "device_name": "Asus CR11 (CR1102C)",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Alder Lake-N",
+    "board_name": "Xivu"
+  },
+  "37": {
+    "cpu_generation": "5th",
+    "device_name": "Toshiba Chromebook 2",
+    "cpu_codename": "Broadwell",
+    "avaliable_drivers": "EC, touchpad, rapid-storage-broadwell",
+    "board_name": "Gandof",
+    "cpu_brand": "Intel"
+  },
+  "70": {
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, cSOF",
+    "cpu_brand": "Intel",
+    "device_name": "Samsung Chromebook 4+",
+    "cpu_generation": "3rd",
+    "board_name": "Casta"
+  },
+  "41": {
+    "cpu_generation": "6th",
+    "cpu_brand": "Intel",
+    "board_name": "Asuka",
+    "device_name": "Dell Chromebook 13 3380",
+    "cpu_codename": "Skylake",
+    "avaliable_drivers": "EC, touchpad, cAVS"
+  },
+  "88": {
+    "cpu_codename": "Alder Lake-N",
+    "cpu_generation": "12th",
+    "cpu_brand": "Intel",
+    "board_name": "Xivu360",
+    "device_name": "Asus CR11 (CR1102F)",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF"
+  },
+  "158": {
+    "device_name": "Asus CX1500CKA",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Jasper Lake",
+    "board_name": "Galith",
+    "cpu_generation": "11th"
+  },
+  "157": {
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "device_name": "HP Fortis 14 G10",
+    "cpu_brand": "Intel",
+    "cpu_generation": "11th",
+    "board_name": "Drawper",
+    "cpu_codename": "Jasper Lake"
+  },
+  "72": {
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake",
+    "board_name": "Phaser360s",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "device_name": "Lenovo 500e 2nd GEN"
+  },
+  "1": {
+    "cpu_brand": "Intel",
+    "cpu_generation": "2nd",
+    "device_name": "Hp Pavilion Chromebook",
+    "cpu_codename": "Sandybridge",
+    "avaliable_drivers": "touchpad",
+    "board_name": "Butterfly"
+  },
+  "51": {
+    "cpu_brand": "Intel",
+    "cpu_codename": "Apollolake",
+    "cpu_generation": "6th",
+    "device_name": "Dell Chromebook 11 5190",
+    "avaliable_drivers": "CR50, EC, touchpad, cAVS",
+    "board_name": "Nasher"
+  },
+  "38": {
+    "cpu_brand": "Intel",
+    "device_name": "Dell Chromebook 13",
+    "cpu_generation": "5th",
+    "cpu_codename": "Broadwell",
+    "board_name": "Lulu",
+    "avaliable_drivers": "EC, touchpad, rapid-storage-broadwell, touchscreen"
+  },
+  "32": {
+    "cpu_brand": "Intel",
+    "cpu_generation": "4th",
+    "cpu_codename": "Haswell",
+    "avaliable_drivers": "EC, touchpad, rapid-storage-haswell",
+    "device_name": "HP Chromebook 14",
+    "board_name": "Falco"
+  },
+  "57": {
+    "cpu_generation": "6th",
+    "cpu_brand": "Intel",
+    "board_name": "Sand",
+    "cpu_codename": "Apollolake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "device_name": "Acer Chromebook 15 (CB311-1HT)"
+  },
+  "61": {
+    "cpu_brand": "Intel",
+    "cpu_codename": "Apollolake",
+    "board_name": "Bruce",
+    "cpu_generation": "6th",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "device_name": "Acer Chromebook Spin 15"
+  },
+  "82": {
+    "cpu_codename": "Alder Lake-N",
+    "board_name": "Pujjo",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_generation": "12th",
+    "device_name": "Lenovo 500e Yoga Gen 4",
+    "cpu_brand": "Intel"
+  },
+  "218": {
+    "board_name": "Vorticon",
+    "device_name": "HP Chromebook 11 G8 EE",
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Gemini Lake"
+  },
+  "136": {
+    "board_name": "Kohaku",
+    "cpu_generation": "10th",
+    "cpu_codename": "Comet Lake",
+    "cpu_brand": "Intel",
+    "device_name": "Samsung Galaxy Chromebook",
+    "avaliable_drivers": "CR50, EC, rapid-storage-cometlake, cometlakechipset, touchpad, touchscreen, sof"
+  },
+  "165": {
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Jasper Lake",
+    "cpu_generation": "11th",
+    "device_name": "CTL NL72",
+    "board_name": "Kracko"
+  },
+  "178": {
+    "cpu_codename": "Jasper Lake",
+    "cpu_generation": "11th",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "device_name": "NEC Chromebook Y3",
+    "cpu_brand": "Intel",
+    "board_name": "Metaknight"
+  },
+  "27": {
+    "device_name": "Acer CB3-431",
+    "cpu_codename": "Braswell",
+    "cpu_brand": "Intel",
+    "board_name": "Edgar",
+    "cpu_generation": "5th",
+    "avaliable_drivers": "EC, touchpad, alc5645-audio"
+  },
+  "83": {
+    "board_name": "Pujjo1e",
+    "device_name": "Lenovo 100e Yoga Gen 4",
+    "cpu_codename": "Alder Lake-N",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_generation": "12th"
+  },
+  "67": {
+    "cpu_brand": "Intel",
+    "cpu_codename": "Gemini Lake",
+    "device_name": "Poin2 Chromebook 11P",
+    "board_name": "Foob360",
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF"
+  },
+  "166": {
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Kracko360",
+    "device_name": "CTL NL72T/LG 11TC50Q/11TQ50Q",
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake"
+  },
+  "199": {
+    "device_name": "Acer Chromebook 311(CB311, C733)",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake",
+    "board_name": "Bobba",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF"
+  },
+  "86": {
+    "board_name": "Pujjoteen15w",
+    "cpu_brand": "Intel",
+    "device_name": "Lenovo Ideapad Slim 3i",
+    "cpu_generation": "12th",
+    "cpu_codename": "Alder Lake-N",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF"
+  },
+  "151": {
+    "board_name": "Bugzzy",
+    "device_name": "Samsung Galaxy Chromebook 2 360",
+    "cpu_brand": "Intel",
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF"
+  },
+  "180": {
+    "cpu_brand": "Intel",
+    "device_name": "White Label Jasper Lake Chromebooks",
+    "board_name": "Pirette",
+    "cpu_codename": "Jasper Lake",
+    "cpu_generation": "11th",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF"
+  },
+  "26": {
+    "device_name": "Dell Chromebook 11 3180",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "EC, touchpad, touchscreen, alc5645-audio",
+    "board_name": "Kefka",
+    "cpu_generation": "5th",
+    "cpu_codename": "Braswell"
+  },
+  "174": {
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "device_name": "Acer Chromebook 315",
+    "board_name": "Magma",
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake",
+    "cpu_brand": "Intel"
+  },
+  "79": {
+    "board_name": "Craaskbowl",
+    "device_name": "Acer Spin 511",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_codename": "Alder Lake-N",
+    "cpu_generation": "12th"
+  },
+  "21": {
+    "avaliable_drivers": "EC, touchpad, alc5645-audio",
+    "cpu_brand": "Intel",
+    "cpu_generation": "5th",
+    "cpu_codename": "Braswell",
+    "board_name": "Terra13",
+    "device_name": "Asus Chromebook C300SA/C301SA"
+  },
+  "62": {
+    "device_name": "Acer Chromebook 15 (CB315)",
+    "board_name": "Blue",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, touchpad, cAVS",
+    "cpu_generation": "6th",
+    "cpu_codename": "Apollolake"
+  },
+  "169": {
+    "cpu_codename": "Jasper Lake",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "board_name": "Lantis",
+    "device_name": "HP Chromebook 14a",
+    "cpu_generation": "11th"
+  },
+  "189": {
+    "cpu_codename": "Kaby Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "cpu_generation": "8th",
+    "device_name": "Asus Chromebook Flip C433/C434",
+    "cpu_brand": "Intel",
+    "board_name": "Shyvana"
+  },
+  "102": {
+    "board_name": "Primus",
+    "cpu_brand": "Intel",
+    "cpu_generation": "12th",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "device_name": "Thinkpad C14 Gen 1",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF"
+  },
+  "211": {
+    "board_name": "Orbatrix",
+    "cpu_brand": "Intel",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "device_name": "Dell Chromebook 3400"
+  },
+  "194": {
+    "cpu_generation": "8th",
+    "board_name": "Sona",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "device_name": "HP Chromebook x360 14",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Kaby Lake"
+  },
+  "22": {
+    "cpu_generation": "5th",
+    "cpu_brand": "Intel",
+    "device_name": "Asus Chromebook C202S/C202SA",
+    "board_name": "Terra",
+    "avaliable_drivers": "EC, touchpad, alc5645-audio",
+    "cpu_codename": "Braswell"
+  },
+  "186": {
+    "device_name": "Acer Chromebook 715",
+    "cpu_generation": "8th",
+    "cpu_codename": "Kaby Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "cpu_brand": "Intel",
+    "board_name": "Bard"
+  },
+  "225": {
+    "cpu_generation": "7th",
+    "cpu_brand": "AMD",
+    "board_name": "Treeya",
+    "cpu_codename": "Stoney Ridge",
+    "avaliable_drivers": "CR50, EC, bayhub-emmc, stoneyridge-gpu, touchpad, touchscreen, acp-audio",
+    "device_name": "Lenovo 100e Chromebook Gen 2 AMD/Lenovo 300e Chromebook Gen 2 AMD"
+  },
+  "91": {
+    "board_name": "Yaviks",
+    "cpu_codename": "Alder Lake-N",
+    "cpu_generation": "12th",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "device_name": "HP Chromebook 15.6",
+    "cpu_brand": "Intel"
+  },
+  "103": {
+    "board_name": "Redrix",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_generation": "12th",
+    "device_name": "HP Elite Dragonfly",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "cpu_brand": "Intel"
+  },
+  "132": {
+    "cpu_brand": "Intel",
+    "board_name": "Helios",
+    "cpu_codename": "Comet Lake",
+    "cpu_generation": "10th",
+    "device_name": "Asus Chromebook Flip C436FA",
+    "avaliable_drivers": "CR50, EC, rapid-storage-cometlake, cometlakechipset, touchpad, touchscreen, sof"
+  },
+  "145": {
+    "device_name": "Lenovo 300e Gen3/NEC Chromebook Y1 Gen 3A",
+    "cpu_codename": "Picasso/Dali",
+    "cpu_brand": "AMD",
+    "board_name": "Vilboz360",
+    "cpu_generation": "Zen 2",
+    "avaliable_drivers": "CR50, EC, picasso/dalichipset, vegagpu, touchpad, touchscreen, ryzen3000-audio"
+  },
+  "9": {
+    "device_name": "Acer C730/CB3-11",
+    "cpu_generation": "4th",
+    "cpu_codename": "Bay Trail",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, Maxim98090-audio",
+    "board_name": "Gnawty",
+    "cpu_brand": "Intel"
+  },
+  "13": {
+    "cpu_brand": "Intel",
+    "board_name": "Candy",
+    "cpu_generation": "4th",
+    "cpu_codename": "Bay Trail",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, touchscreen, Maxim98090-audio",
+    "device_name": "Dell Chromebook 11 3120"
+  },
+  "33": {
+    "cpu_brand": "Intel",
+    "cpu_generation": "4th",
+    "board_name": "Peppy",
+    "avaliable_drivers": "EC, touchpad, rapid-storage-haswell, touchscreen",
+    "cpu_codename": "Haswell",
+    "device_name": "Acer C720(P)"
+  },
+  "187": {
+    "cpu_brand": "Intel",
+    "device_name": "Acer Chromebook 714",
+    "cpu_generation": "8th",
+    "cpu_codename": "Kaby Lake",
+    "board_name": "Ekko",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS"
+  },
+  "121": {
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "board_name": "Lindar",
+    "cpu_brand": "Intel",
+    "device_name": "Lenovo 5i-14 Chromebook/Lenovo Slim 5 Chromebook",
+    "cpu_generation": "11th",
+    "cpu_codename": "Tiger Lake"
+  },
+  "100": {
+    "board_name": "Osiris",
+    "cpu_generation": "12th",
+    "device_name": "Acer Chromebook 516GE ",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Alder Lake/Raptor Lake"
+  },
+  "68": {
+    "device_name": "CTL Chromebook Nl81/NL81T",
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_codename": "Gemini Lake",
+    "cpu_brand": "Intel",
+    "board_name": "Garfour"
+  },
+  "7": {
+    "cpu_generation": "4th",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, Maxim98090-audio",
+    "board_name": "Kip",
+    "device_name": "HP Chromebook 11 G3/G4",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Bay Trail"
+  },
+  "131": {
+    "cpu_codename": "Comet Lake",
+    "board_name": "Dratini",
+    "device_name": "HP Pro c640",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, rapid-storage-cometlake, cometlakechipset, touchpad, touchscreen, sof",
+    "cpu_generation": "10th"
+  },
+  "64": {
+    "cpu_codename": "Gemini Lake",
+    "cpu_brand": "Intel",
+    "board_name": "Garg360",
+    "device_name": "White Label Gemini Lake Chromebooks",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_generation": "3rd"
+  },
+  "138": {
+    "cpu_generation": "Zen 2",
+    "board_name": "Berknip",
+    "device_name": "HP Chromebook C645",
+    "cpu_brand": "AMD",
+    "cpu_codename": "Picasso/Dali",
+    "avaliable_drivers": "CR50, EC, picasso/dalichipset, vegagpu, touchpad, touchscreen, ryzen3000-audio"
+  },
+  "60": {
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "device_name": "Acer Chromebook Spin 11 (R751T)",
+    "cpu_codename": "Apollolake",
+    "board_name": "Electro",
+    "cpu_brand": "Intel",
+    "cpu_generation": "6th"
+  },
+  "92": {
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "device_name": "HP Elite c640 G3",
+    "cpu_brand": "Intel",
+    "cpu_generation": "12th",
+    "board_name": "Anahera"
+  },
+  "89": {
+    "cpu_codename": "Alder Lake-N",
+    "device_name": "HP Fortis G10",
+    "cpu_generation": "12th",
+    "cpu_brand": "Intel",
+    "board_name": "Yavilla",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF"
+  },
+  "111": {
+    "board_name": "Markarth",
+    "device_name": "Acer Plus 514",
+    "cpu_generation": "Zen 2",
+    "avaliable_drivers": "CR50, EC, MendocinoChipset, Radeon-Graphics, touchpad, cSOF",
+    "cpu_codename": "Mendocino",
+    "cpu_brand": "AMD"
+  },
+  "49": {
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "board_name": "Snappy",
+    "cpu_codename": "Apollolake",
+    "device_name": "HP Chromebook x360 11 G1 EE/HP Chromebook 11 G6/HP Chromebook 14 G5",
+    "cpu_generation": "6th",
+    "cpu_brand": "Intel"
+  },
+  "217": {
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_generation": "3rd",
+    "board_name": "Mimrock",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Gemini Lake",
+    "device_name": "HP Chromebook 11 G7 EE"
+  },
+  "39": {
+    "cpu_generation": "6th",
+    "device_name": "Samsung Chromebook Pro",
+    "cpu_brand": "Intel",
+    "board_name": "Caroline",
+    "cpu_codename": "Skylake",
+    "avaliable_drivers": "EC, touchpad, cAVS"
+  },
+  "223": {
+    "board_name": "Kasumi",
+    "cpu_brand": "AMD",
+    "cpu_codename": "Stoney Ridge",
+    "device_name": "Acer Chromebook 311 (R721)/Acer Chromebook Spin 311 (R721T)",
+    "avaliable_drivers": "CR50, EC, bayhub-emmc, stoneyridge-gpu, touchpad, touchscreen, acp-audio",
+    "cpu_generation": "7th"
+  },
+  "198": {
+    "board_name": "Blorb",
+    "cpu_brand": "Intel",
+    "device_name": "Acer Chromebook 315",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF"
+  },
+  "162": {
+    "cpu_brand": "Intel",
+    "device_name": "Asus Flip CX1 CX1102",
+    "board_name": "Galnat360",
+    "cpu_codename": "Jasper Lake",
+    "cpu_generation": "11th",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF"
+  },
+  "188": {
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "cpu_codename": "Kaby Lake",
+    "cpu_generation": "8th",
+    "cpu_brand": "Intel",
+    "board_name": "Leona",
+    "device_name": "Asus Chromebook C425"
+  },
+  "78": {
+    "board_name": "Craask",
+    "cpu_generation": "12th",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "device_name": "Acer Spin 512",
+    "cpu_codename": "Alder Lake-N",
+    "cpu_brand": "Intel"
+  },
+  "105": {
+    "board_name": "Taniks",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "cpu_generation": "12th",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "device_name": "Ideapad Gaming 16",
+    "cpu_brand": "Intel"
+  },
+  "42": {
+    "avaliable_drivers": "EC, touchpad, touchscreen, cAVS",
+    "board_name": "Chell",
+    "cpu_brand": "Intel",
+    "device_name": "HP Chromebook 13 G1",
+    "cpu_codename": "Skylake",
+    "cpu_generation": "6th"
+  },
+  "59": {
+    "cpu_brand": "Intel",
+    "cpu_codename": "Apollolake",
+    "board_name": "Epaulette",
+    "device_name": "Acer Chromebook 514",
+    "cpu_generation": "6th",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS"
+  },
+  "175": {
+    "cpu_codename": "Jasper Lake",
+    "cpu_generation": "11th",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "board_name": "Magneto",
+    "device_name": "Acer Chromebook 314"
+  },
+  "30": {
+    "avaliable_drivers": "EC, touchpad, rapid-storage-haswell",
+    "cpu_codename": "Haswell",
+    "board_name": "Leon",
+    "cpu_brand": "Intel",
+    "cpu_generation": "4th",
+    "device_name": "Toshiba Chromebook 1"
+  },
+  "14": {
+    "cpu_codename": "Bay Trail",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, Maxim98090-audio",
+    "cpu_generation": "4th",
+    "board_name": "Banjo",
+    "device_name": "Acer CB3-531",
+    "cpu_brand": "Intel"
+  },
+  "55": {
+    "cpu_generation": "6th",
+    "cpu_codename": "Apollolake",
+    "board_name": "Babymega",
+    "avaliable_drivers": "CR50, EC, touchpad, cAVS",
+    "cpu_brand": "Intel",
+    "device_name": "Asus C223NA"
+  },
+  "104": {
+    "board_name": "Taeko",
+    "cpu_generation": "12th",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "device_name": "Lenovo Flex 5i 14",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF"
+  },
+  "214": {
+    "cpu_codename": "Gemini Lake",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "device_name": "HP Chromebook x360 14a/14b",
+    "board_name": "Blooguard",
+    "cpu_generation": "3rd"
+  },
+  "193": {
+    "cpu_generation": "8th",
+    "board_name": "Nocturne",
+    "device_name": "Google Pixel Slate",
+    "cpu_codename": "Kaby Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "cpu_brand": "Intel"
+  },
+  "81": {
+    "device_name": "Acer Chromebook 314",
+    "cpu_codename": "Alder Lake-N",
+    "cpu_brand": "Intel",
+    "board_name": "Craasneto",
+    "cpu_generation": "12th",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF"
+  },
+  "185": {
+    "board_name": "Akali",
+    "cpu_brand": "Intel",
+    "cpu_generation": "8th",
+    "device_name": "Acer Chromebook 13/Spin 13",
+    "cpu_codename": "Kaby Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS"
+  },
+  "142": {
+    "device_name": "Acer Chromebook Spin 514",
+    "board_name": "Ezikinil",
+    "cpu_codename": "Picasso/Dali",
+    "avaliable_drivers": "CR50, EC, picasso/dalichipset, vegagpu, touchpad, touchscreen, ryzen3000-audio",
+    "cpu_generation": "Zen 2",
+    "cpu_brand": "AMD"
+  },
+  "4": {
+    "cpu_codename": "Bay Trail",
+    "cpu_generation": "4th",
+    "board_name": "Swanky",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, Maxim98090-audio",
+    "device_name": "Toshiba Chromebook 2"
+  },
+  "44": {
+    "board_name": "Lars",
+    "avaliable_drivers": "EC, touchpad, touchscreen, cAVS",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Skylake",
+    "device_name": "Acer C771/Chromebook 14 for Work",
+    "cpu_generation": "6th"
+  },
+  "127": {
+    "board_name": "Nipperkin",
+    "cpu_brand": "AMD",
+    "cpu_generation": "Zen 3",
+    "device_name": "HP Elite c645 G2",
+    "avaliable_drivers": "CR50, EC, CezanneChipset, Radeon-GPU, touchpad, sof-amd",
+    "cpu_codename": "Cezanne"
+  },
+  "146": {
+    "device_name": "Ideapad Flex 3i",
+    "cpu_codename": "Jasper Lake",
+    "board_name": "Beetley",
+    "cpu_brand": "Intel",
+    "cpu_generation": "11th",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF"
+  },
+  "205": {
+    "cpu_generation": "3rd",
+    "device_name": "Acer Spin 512 (R851TN)",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "board_name": "Sparky360"
+  },
+  "110": {
+    "cpu_codename": "Mendocino",
+    "device_name": "Asus CM34 Flip",
+    "cpu_brand": "AMD",
+    "cpu_generation": "Zen 2",
+    "avaliable_drivers": "CR50, EC, MendocinoChipset, Radeon-Graphics, touchpad, cSOF",
+    "board_name": "Frostflow"
+  },
+  "109": {
+    "cpu_brand": "AMD",
+    "board_name": "Crystaldrift",
+    "cpu_generation": "Zen 2",
+    "avaliable_drivers": "CR50, EC, MendocinoChipset, Radeon-Graphics, touchpad, cSOF",
+    "device_name": "TBD",
+    "cpu_codename": "Mendocino"
+  },
+  "209": {
+    "device_name": "Dell Chromebook 3100",
+    "board_name": "Fleex",
+    "cpu_codename": "Gemini Lake",
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel"
+  },
+  "48": {
+    "board_name": "Pyro",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "device_name": "Lenovo Thinkpad 11e/Yoga 11e (G4)",
+    "cpu_generation": "6th",
+    "cpu_codename": "Apollolake"
+  },
+  "139": {
+    "board_name": "Morphius",
+    "cpu_brand": "AMD",
+    "cpu_codename": "Picasso/Dali",
+    "cpu_generation": "Zen 2",
+    "device_name": "Lenovo Yoga C13",
+    "avaliable_drivers": "CR50, EC, picasso/dalichipset, vegagpu, touchpad, touchscreen, ryzen3000-audio"
+  },
+  "219": {
+    "cpu_generation": "3rd",
+    "device_name": "HP Chromebook x360 11 G3 EE",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "board_name": "Vortininja"
+  },
+  "207": {
+    "device_name": "Asus Chromebook Flip C204",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "board_name": "Apel",
+    "cpu_brand": "Intel",
+    "cpu_generation": "3rd"
+  },
+  "19": {
+    "cpu_generation": "5th",
+    "cpu_brand": "Intel",
+    "device_name": "White Label Braswell Chromebooks",
+    "cpu_codename": "Braswell",
+    "board_name": "Wizpig",
+    "avaliable_drivers": "EC, touchpad, touchscreen, alc5645-audio"
+  },
+  "181": {
+    "board_name": "Pirika",
+    "cpu_codename": "Jasper Lake",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_generation": "11th",
+    "device_name": "Axioo Chromebook P14/Gateway Chromebook 14"
+  },
+  "95": {
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "cpu_generation": "12th",
+    "board_name": "Felwinter",
+    "device_name": "Asus Chromebook Flip CX5601"
+  },
+  "213": {
+    "board_name": "Blooglet",
+    "cpu_brand": "Intel",
+    "device_name": "HP Chromebook 14a",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake"
+  },
+  "40": {
+    "cpu_brand": "Intel",
+    "board_name": "Sentry",
+    "device_name": "Lenovo Thinkpad 13",
+    "cpu_generation": "6th",
+    "cpu_codename": "Skylake",
+    "avaliable_drivers": "EC, touchpad, touchscreen, cAVS"
+  },
+  "182": {
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Sasuke",
+    "cpu_brand": "Intel",
+    "device_name": "Samsung Galaxy Chromebook Go",
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake"
+  },
+  "159": {
+    "cpu_generation": "11th",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "device_name": "Asus CX1500GKA",
+    "cpu_codename": "Jasper Lake",
+    "board_name": "Galith360"
+  },
+  "212": {
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "device_name": "HP Chromebook x360 12b",
+    "board_name": "Bloog",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake"
+  },
+  "11": {
+    "cpu_generation": "4th",
+    "device_name": "Lenovo N21 Chromebook",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Bay Trail",
+    "board_name": "Enguarde",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, Maxim98090-audio"
+  },
+  "34": {
+    "board_name": "Samus",
+    "cpu_generation": "5th",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Broadwell",
+    "avaliable_drivers": "EC, touchpad, touchscreen, rapid-storage-broadwell",
+    "device_name": "Google Pixel 2"
+  },
+  "65": {
+    "cpu_generation": "3rd",
+    "device_name": "White Label Gemini Lake Chromebooks",
+    "board_name": "Garg",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF"
+  },
+  "153": {
+    "cpu_codename": "Jasper Lake",
+    "device_name": "Dell Chromebook 3110 2-in-1",
+    "board_name": "Cret360",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_generation": "11th"
+  },
+  "210": {
+    "cpu_generation": "3rd",
+    "cpu_brand": "Intel",
+    "device_name": "Dell Chromebook 3100 2-in-1",
+    "board_name": "Grabbiter",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF"
+  },
+  "3": {
+    "board_name": "Winky",
+    "cpu_codename": "Bay Trail",
+    "cpu_generation": "4th",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, Maxim98090-audio",
+    "device_name": "Samsung Chromebook 2",
+    "cpu_brand": "Intel"
+  },
+  "144": {
+    "cpu_codename": "Picasso/Dali",
+    "cpu_brand": "AMD",
+    "avaliable_drivers": "CR50, EC, picasso/dalichipset, vegagpu, touchpad, touchscreen, ryzen3000-audio",
+    "board_name": "Vilboz",
+    "cpu_generation": "Zen 2",
+    "device_name": "Lenovo 100e Gen3"
+  },
+  "114": {
+    "board_name": "Collis",
+    "device_name": "Asus Chromebook Flip CX3",
+    "cpu_brand": "Intel",
+    "cpu_generation": "11th",
+    "cpu_codename": "Tiger Lake",
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen"
+  },
+  "173": {
+    "cpu_brand": "Intel",
+    "device_name": "Acer Chromebook C733/C734",
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Maglith"
+  },
+  "156": {
+    "board_name": "Drawman",
+    "cpu_codename": "Jasper Lake",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_generation": "11th",
+    "device_name": "HP Chromebook 14 G7"
+  },
+  "172": {
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "device_name": "Acer Chromebook C852",
+    "board_name": "Maglet",
+    "cpu_brand": "Intel",
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake"
+  },
+  "179": {
+    "device_name": "Gateway Chromebook 15",
+    "cpu_generation": "11th",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Jasper Lake",
+    "board_name": "Pasara",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF"
+  },
+  "28": {
+    "board_name": "Cyan",
+    "avaliable_drivers": "EC, touchpad, touchscreen, r11-audio",
+    "cpu_generation": "5th",
+    "cpu_codename": "Braswell",
+    "device_name": "Acer Chromebook R11 (C738T, CB5-132T)",
+    "cpu_brand": "Intel"
+  },
+  "54": {
+    "device_name": "Asus C523NA",
+    "board_name": "Babytiger",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Apollolake",
+    "avaliable_drivers": "CR50, EC, touchpad, cAVS",
+    "cpu_generation": "6th"
+  },
+  "107": {
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "device_name": "Acer Chromebook Vero 514",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "cpu_generation": "12th",
+    "board_name": "Volmar"
+  },
+  "197": {
+    "device_name": "Samsung Chromebook Plus v2",
+    "cpu_generation": "8th",
+    "cpu_codename": "Kaby Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "board_name": "Nautilus",
+    "cpu_brand": "Intel"
+  },
+  "177": {
+    "cpu_codename": "Jasper Lake",
+    "board_name": "Magpie",
+    "device_name": "Acer Chromebook 317",
+    "cpu_brand": "Intel",
+    "cpu_generation": "11th",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF"
+  },
+  "143": {
+    "board_name": "Gumboz",
+    "avaliable_drivers": "CR50, EC, picasso/dalichipset, vegagpu, touchpad, touchscreen, ryzen3000-audio",
+    "cpu_brand": "AMD",
+    "device_name": "HP Chromebook x360 14a",
+    "cpu_generation": "Zen 2",
+    "cpu_codename": "Picasso/Dali"
+  },
+  "200": {
+    "cpu_codename": "Gemini Lake",
+    "device_name": "Acer Spin 311 (CP311/)Acer Spin 511 (R752T, R752TN)",
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "board_name": "Bobba360"
+  },
+  "25": {
+    "cpu_brand": "Intel",
+    "board_name": "Reks",
+    "device_name": "Lenovo N22/N42 Chromebook",
+    "cpu_codename": "Braswell",
+    "cpu_generation": "5th",
+    "avaliable_drivers": "EC, touchpad, touchscreen, alc5645-audio"
+  },
+  "208": {
+    "cpu_codename": "Gemini Lake",
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "device_name": "Asus Chromebook C424",
+    "board_name": "Nospike"
+  },
+  "71": {
+    "device_name": "Samsung Chromebook 4",
+    "board_name": "Bluebird",
+    "cpu_brand": "Intel",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, cSOF"
+  },
+  "10": {
+    "cpu_brand": "Intel",
+    "cpu_generation": "4th",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, touchscreen, Maxim98090-audio",
+    "device_name": "Lenovo Thinkpad 11e/Yoga Chromebook",
+    "board_name": "Glimmer",
+    "cpu_codename": "Bay Trail"
+  },
+  "85": {
+    "cpu_codename": "Alder Lake-N",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "device_name": "Lenovo 14e Gen 3",
+    "board_name": "Pujjoteen",
+    "cpu_brand": "Intel",
+    "cpu_generation": "12th"
+  },
+  "152": {
+    "cpu_codename": "Jasper Lake",
+    "board_name": "Cret",
+    "device_name": "Dell Chromebook 3110",
+    "cpu_generation": "11th",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF"
+  },
+  "129": {
+    "board_name": "Dragonair",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, rapid-storage-cometlake, cometlakechipset, touchpad, touchscreen, sof",
+    "cpu_codename": "Comet Lake",
+    "cpu_generation": "10th",
+    "device_name": "HP Chromebook x360 14c"
+  },
+  "128": {
+    "board_name": "Akemi",
+    "cpu_generation": "10th",
+    "cpu_codename": "Comet Lake",
+    "device_name": "Lenovo Ideapad Flex 5",
+    "avaliable_drivers": "CR50, EC, rapid-storage-cometlake, cometlakechipset, touchpad, touchscreen, sof",
+    "cpu_brand": "Intel"
+  },
+  "125": {
+    "board_name": "Voxel",
+    "device_name": "Acer Spin 713 (CP713-3W)",
+    "cpu_generation": "11th",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Tiger Lake",
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen"
+  },
+  "140": {
+    "device_name": "Asus Flip CM5",
+    "avaliable_drivers": "CR50, EC, picasso/dalichipset, vegagpu, touchpad, touchscreen, ryzen3000-audio",
+    "cpu_generation": "Zen 2",
+    "cpu_codename": "Picasso/Dali",
+    "board_name": "Woomax",
+    "cpu_brand": "AMD"
+  },
+  "69": {
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "board_name": "Foob",
+    "cpu_codename": "Gemini Lake",
+    "cpu_brand": "Intel",
+    "device_name": "CTL Chromebook VX11/VX11T"
+  },
+  "23": {
+    "board_name": "Setzer",
+    "avaliable_drivers": "EC, touchpad, touchscreen, alc5645-audio",
+    "cpu_generation": "5th",
+    "cpu_codename": "Braswell",
+    "cpu_brand": "Intel",
+    "device_name": "HP Chromebook 11 G5"
+  },
+  "101": {
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "board_name": "Omnigul",
+    "device_name": "Acer Chromebook Plus 515",
+    "cpu_generation": "12th",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF"
+  },
+  "97": {
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "device_name": "Asus Chromebook Spin 714",
+    "cpu_generation": "12th",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "board_name": "Kano",
+    "cpu_brand": "Intel"
+  },
+  "123": {
+    "cpu_brand": "Intel",
+    "device_name": "Acer Chromebook 515",
+    "board_name": "Volet",
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "cpu_generation": "11th",
+    "cpu_codename": "Tiger Lake"
+  },
+  "118": {
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "device_name": "HP Chromebook x360 14c",
+    "cpu_brand": "Intel",
+    "cpu_generation": "11th",
+    "cpu_codename": "Tiger Lake",
+    "board_name": "Eldrid"
+  },
+  "63": {
+    "cpu_brand": "Intel",
+    "board_name": "Astronut",
+    "device_name": "Acer C732",
+    "cpu_codename": "Apollolake",
+    "cpu_generation": "6th",
+    "avaliable_drivers": "CR50, EC, touchpad, cAVS"
+  },
+  "2": {
+    "device_name": "Samsung Series 5 550",
+    "avaliable_drivers": "touchpad",
+    "board_name": "Lumpy",
+    "cpu_codename": "Sandybridge",
+    "cpu_generation": "2nd",
+    "cpu_brand": "Intel"
+  },
+  "73": {
+    "cpu_brand": "Intel",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_generation": "3rd",
+    "board_name": "Phaser360",
+    "device_name": "White Label Gemini Lake chrombooks"
+  },
+  "99": {
+    "device_name": "Asus Chromebook Flip CX34",
+    "board_name": "Mithrax",
+    "cpu_generation": "12th",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "cpu_brand": "Intel"
+  },
+  "176": {
+    "board_name": "Magolor",
+    "device_name": "Acer Spin 511 [R753T]",
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF"
+  },
+  "18": {
+    "cpu_generation": "5th",
+    "cpu_codename": "Braswell",
+    "avaliable_drivers": "EC, touchpad, alc5645-audio",
+    "cpu_brand": "Intel",
+    "board_name": "Celes",
+    "device_name": "Samsung Chromebook 3"
+  },
+  "36": {
+    "board_name": "Yuna",
+    "device_name": "Acer C910/CB5-571",
+    "cpu_brand": "Intel",
+    "cpu_generation": "5th",
+    "avaliable_drivers": "EC, touchpad, rapid-storage-broadwell",
+    "cpu_codename": "Broadwell"
+  },
+  "201": {
+    "device_name": "Acer Chromebook 314 (CB314)/Packard Bell 314 (PCB314)",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "board_name": "Droid"
+  },
+  "46": {
+    "cpu_generation": "6th",
+    "cpu_brand": "Intel",
+    "device_name": "Whitelabel Apollolake Chromebook",
+    "cpu_codename": "Apollolake",
+    "board_name": "Blacktip",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS"
+  },
+  "47": {
+    "cpu_codename": "Apollolake",
+    "cpu_generation": "6th",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "board_name": "Robo",
+    "device_name": "Lenovo 100e/500e",
+    "cpu_brand": "Intel"
+  },
+  "171": {
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Magister",
+    "cpu_generation": "11th",
+    "device_name": "Acer Spin 314",
+    "cpu_codename": "Jasper Lake",
+    "cpu_brand": "Intel"
+  },
+  "202": {
+    "cpu_brand": "Intel",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake",
+    "board_name": "Glk",
+    "device_name": "Acer Chromebook 311",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF"
+  },
+  "126": {
+    "board_name": "Dewatt",
+    "cpu_brand": "AMD",
+    "cpu_generation": "Zen 3",
+    "device_name": "Acer Spin 514",
+    "cpu_codename": "Cezanne",
+    "avaliable_drivers": "CR50, EC, CezanneChipset, Radeon-GPU, touchpad, sof-amd"
+  },
+  "117": {
+    "board_name": "Drobit",
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "cpu_generation": "11th",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Tiger Lake",
+    "device_name": "ASUS Chromebook CX9400"
+  },
+  "90": {
+    "device_name": "HP Fortis G5",
+    "cpu_generation": "12th",
+    "cpu_codename": "Alder Lake-N",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "board_name": "Yavilly"
+  },
+  "84": {
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "device_name": "Lenovo Flex 3i",
+    "board_name": "Pujjoflex",
+    "cpu_codename": "Alder Lake-N",
+    "cpu_brand": "Intel",
+    "cpu_generation": "12th"
+  },
+  "43": {
+    "board_name": "Cave",
+    "cpu_generation": "6th",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Skylake",
+    "avaliable_drivers": "EC, touchpad, cAVS",
+    "device_name": "Asus C302Ca"
+  },
+  "170": {
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "device_name": "HP x360 14b",
+    "cpu_generation": "11th",
+    "board_name": "Madoo",
+    "cpu_codename": "Jasper Lake"
+  },
+  "119": {
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "cpu_generation": "11th",
+    "cpu_brand": "Intel",
+    "device_name": "HP Pro c640 G2 Chromebook",
+    "cpu_codename": "Tiger Lake",
+    "board_name": "Elemi"
+  },
+  "167": {
+    "cpu_codename": "Jasper Lake",
+    "cpu_brand": "Intel",
+    "cpu_generation": "11th",
+    "device_name": "HP x360 14a-ca1",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Landia"
+  },
+  "94": {
+    "board_name": "Crota",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "device_name": "Dell Latitude 5430",
+    "cpu_generation": "12th",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF"
+  },
+  "196": {
+    "board_name": "Pantheon",
+    "cpu_codename": "Kaby Lake",
+    "device_name": "Lenovo Yoga Chromebook C630",
+    "cpu_generation": "8th",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS"
+  },
+  "93": {
+    "cpu_brand": "Intel",
+    "cpu_generation": "12th",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "device_name": "Framework Chromebook",
+    "board_name": "Banshee"
+  },
+  "29": {
+    "cpu_generation": "5th",
+    "cpu_brand": "Intel",
+    "device_name": "Acer Chromebook 15 (CB3-532)",
+    "board_name": "Banon",
+    "avaliable_drivers": "EC, touchpad, alc5645-audio",
+    "cpu_codename": "Braswell"
+  },
+  "108": {
+    "cpu_generation": "12th",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "board_name": "Zavala",
+    "cpu_brand": "Intel",
+    "device_name": "Acer Chromebook Vero 712",
+    "cpu_codename": "Alder Lake/Raptor Lake"
+  },
+  "148": {
+    "cpu_codename": "Jasper Lake",
+    "cpu_generation": "11th",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Bookem",
+    "device_name": "Lenovo 100e Gen 3",
+    "cpu_brand": "Intel"
+  },
+  "137": {
+    "cpu_codename": "Comet Lake",
+    "cpu_brand": "Intel",
+    "board_name": "Nightfury",
+    "cpu_generation": "10th",
+    "avaliable_drivers": "CR50, EC, rapid-storage-cometlake, cometlakechipset, touchpad, touchscreen, sof",
+    "device_name": "Samsung Galaxy Chromebook 2"
+  },
+  "224": {
+    "avaliable_drivers": "CR50, EC, bayhub-emmc, stoneyridge-gpu, touchpad, touchscreen, acp-audio",
+    "cpu_codename": "Stoney Ridge",
+    "cpu_brand": "AMD",
+    "board_name": "Liara",
+    "device_name": "Lenovo 14e Chromebook (S345)",
+    "cpu_generation": "7th"
+  },
+  "191": {
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "board_name": "Atlas",
+    "cpu_generation": "8th",
+    "device_name": "Google Pixelbook Go",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Kaby Lake"
+  },
+  "184": {
+    "device_name": "ASUS Chromebook Flip CR1100",
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake",
+    "cpu_brand": "Intel",
+    "board_name": "Storo360",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF"
+  },
+  "192": {
+    "cpu_brand": "Intel",
+    "board_name": "Eve",
+    "device_name": "Google Pixelbook",
+    "cpu_codename": "Kaby Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "cpu_generation": "8th"
+  },
+  "8": {
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, Maxim98090-audio",
+    "cpu_generation": "4th",
+    "board_name": "Heli",
+    "device_name": "Haier Chromebook G2",
+    "cpu_codename": "Bay Trail"
+  },
+  "76": {
+    "board_name": "Lazer14",
+    "device_name": "Lenovo S340/Ideapad 3",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel"
+  },
+  "155": {
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake",
+    "cpu_brand": "Intel",
+    "board_name": "Drawlat",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "device_name": "HP Chromebook 11 G9 EE"
+  },
+  "31": {
+    "cpu_brand": "Intel",
+    "cpu_codename": "Haswell",
+    "board_name": "Wolf",
+    "avaliable_drivers": "EC, touchpad, rapid-storage-haswell",
+    "cpu_generation": "4th",
+    "device_name": "Dell Chromebook 11"
+  },
+  "50": {
+    "cpu_codename": "Apollolake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "cpu_brand": "Intel",
+    "cpu_generation": "6th",
+    "device_name": "Dell Chromebook 11 5190 2 in 1",
+    "board_name": "Nasher360"
+  },
+  "222": {
+    "cpu_generation": "7th",
+    "device_name": "HP Chromebook 14A G5",
+    "cpu_brand": "AMD",
+    "board_name": "Careena",
+    "cpu_codename": "Stoney Ridge",
+    "avaliable_drivers": "CR50, EC, bayhub-emmc, stoneyridge-gpu, touchpad, touchscreen, acp-audio"
+  },
+  "52": {
+    "cpu_codename": "Apollolake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "device_name": "Asus Chromebook Flip C213SA",
+    "cpu_generation": "6th",
+    "cpu_brand": "Intel",
+    "board_name": "Reef"
+  },
+  "216": {
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "board_name": "Meep",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake",
+    "cpu_brand": "Intel",
+    "device_name": "HP Chromebook x360 11 G2 EE"
+  },
+  "20": {
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "EC, touchpad, touchscreen, alc5645-audio",
+    "board_name": "Ultima",
+    "cpu_generation": "5th",
+    "cpu_codename": "Braswell",
+    "device_name": "Lenovo Thinkpad 11e 3rd Generation"
+  },
+  "5": {
+    "board_name": "Quawks",
+    "cpu_brand": "Intel",
+    "cpu_generation": "4th",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, Maxim98090-audio",
+    "cpu_codename": "Bay Trail",
+    "device_name": "Asus C300"
+  },
+  "98": {
+    "board_name": "Marasov",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "device_name": "Asus Chromebook Plus CX3402",
+    "cpu_brand": "Intel",
+    "cpu_generation": "12th"
+  },
+  "116": {
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "board_name": "Delbin",
+    "device_name": "ASUS Chromebook CX5500, CX536",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Tiger Lake",
+    "cpu_generation": "11th"
+  },
+  "206": {
+    "cpu_generation": "3rd",
+    "device_name": "Asus Chromebook Flip C214/C234",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Gemini Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "board_name": "Ampton"
+  },
+  "133": {
+    "cpu_codename": "Comet Lake",
+    "avaliable_drivers": "CR50, EC, rapid-storage-cometlake, cometlakechipset, touchpad, touchscreen, sof",
+    "cpu_brand": "Intel",
+    "board_name": "Jinlon",
+    "device_name": "HP Elite c1030/HP Chromebook x360 13c",
+    "cpu_generation": "10th"
+  },
+  "35": {
+    "cpu_generation": "5th",
+    "board_name": "Paine",
+    "device_name": "Acer C740",
+    "cpu_codename": "Broadwell",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "EC, touchpad, rapid-storage-broadwell"
+  },
+  "163": {
+    "cpu_generation": "11th",
+    "board_name": "Galtic",
+    "cpu_codename": "Jasper Lake",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "device_name": "Asus CX1400",
+    "cpu_brand": "Intel"
+  },
+  "215": {
+    "cpu_codename": "Gemini Lake",
+    "cpu_brand": "Intel",
+    "device_name": "HP Chromebook 14 G6",
+    "cpu_generation": "3rd",
+    "board_name": "Dorp",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF"
+  },
+  "120": {
+    "cpu_codename": "Tiger Lake",
+    "board_name": "Lillipup",
+    "device_name": "Lenovo IdeaPad Flex 5i",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "cpu_generation": "11th"
+  },
+  "74": {
+    "board_name": "Phaser",
+    "cpu_codename": "Gemini Lake",
+    "cpu_brand": "Intel",
+    "device_name": "White Label Gemini Lake chrombooks",
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "CR50, EC, touchpad, cSOF"
+  },
+  "106": {
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "device_name": "Ideapad 5i 16",
+    "board_name": "Tarlo",
+    "cpu_brand": "Intel",
+    "cpu_generation": "12th"
+  },
+  "134": {
+    "cpu_generation": "10th",
+    "cpu_codename": "Comet Lake",
+    "avaliable_drivers": "CR50, EC, rapid-storage-cometlake, cometlakechipset, touchpad, touchscreen, sof",
+    "device_name": "Acer Chromebook 712 (C871)",
+    "cpu_brand": "Intel",
+    "board_name": "Kindred"
+  },
+  "160": {
+    "device_name": "Asus CX1700",
+    "cpu_brand": "Intel",
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Gallop"
+  },
+  "12": {
+    "cpu_codename": "Bay Trail",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, touchscreen, Maxim98090-audio",
+    "board_name": "Clapper",
+    "cpu_generation": "4th",
+    "device_name": "Lenovo N20(P) Chromebook"
+  },
+  "130": {
+    "cpu_generation": "10th",
+    "avaliable_drivers": "CR50, EC, rapid-storage-cometlake, cometlakechipset, touchpad, touchscreen, sof",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Comet Lake",
+    "board_name": "Drallion",
+    "device_name": "Dell 7410 Enterprise"
+  },
+  "141": {
+    "device_name": "HP Chromebook 14a",
+    "board_name": "Dirinboz",
+    "cpu_codename": "Picasso/Dali",
+    "avaliable_drivers": "CR50, EC, picasso/dalichipset, vegagpu, touchpad, touchscreen, ryzen3000-audio",
+    "cpu_generation": "Zen 2",
+    "cpu_brand": "AMD"
+  },
+  "164": {
+    "device_name": "Asus CX1400GKA",
+    "cpu_generation": "11th",
+    "cpu_codename": "Jasper Lake",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Galtic360"
+  },
+  "168": {
+    "cpu_brand": "Intel",
+    "cpu_codename": "Jasper Lake",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Landrid",
+    "cpu_generation": "11th",
+    "device_name": "HP Chromebook 15a-na0"
+  },
+  "17": {
+    "device_name": "Acer C710",
+    "cpu_codename": "Ivy Bridge",
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "touchpad",
+    "board_name": "Parrot",
+    "cpu_brand": "Intel"
+  },
+  "124": {
+    "cpu_generation": "11th",
+    "cpu_codename": "Tiger Lake",
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "device_name": "Acer Chromebook 514",
+    "board_name": "Volta",
+    "cpu_brand": "Intel"
+  },
+  "112": {
+    "cpu_generation": "Zen 2",
+    "avaliable_drivers": "CR50, EC, MendocinoChipset, Radeon-Graphics, touchpad, cSOF",
+    "cpu_codename": "Mendocino",
+    "cpu_brand": "AMD",
+    "board_name": "Whiterun",
+    "device_name": "Dell 3445"
+  },
+  "135": {
+    "avaliable_drivers": "CR50, EC, rapid-storage-cometlake, cometlakechipset, touchpad, touchscreen, sof",
+    "board_name": "Kled",
+    "device_name": "Acer Spin 713 (CP713-2W)",
+    "cpu_brand": "Intel",
+    "cpu_generation": "10th",
+    "cpu_codename": "Comet Lake"
+  },
+  "80": {
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_generation": "12th",
+    "cpu_codename": "Alder Lake-N",
+    "device_name": "Acer Chromebook 511  ",
+    "cpu_brand": "Intel",
+    "board_name": "Craaskvin"
+  },
+  "56": {
+    "cpu_generation": "6th",
+    "cpu_brand": "Intel",
+    "board_name": "Santa",
+    "device_name": "Acer Chromebook 11 (CB311-8H)",
+    "cpu_codename": "Apollolake",
+    "avaliable_drivers": "CR50, EC, touchpad, cAVS"
+  },
+  "15": {
+    "avaliable_drivers": "EC, I2C-Graphics, touchpad, touchscreen, Creative-audio",
+    "device_name": "Google Pixel 1",
+    "cpu_brand": "Intel",
+    "cpu_generation": "3rd",
+    "board_name": "Link",
+    "cpu_codename": "Ivy Bridge"
+  },
+  "183": {
+    "cpu_codename": "Jasper Lake",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Storo",
+    "cpu_brand": "Intel",
+    "cpu_generation": "11th",
+    "device_name": "ASUS Chromebook CR1100"
+  },
+  "195": {
+    "board_name": "Syndra",
+    "device_name": "HP Chromebook 15 G1",
+    "cpu_generation": "8th",
+    "cpu_codename": "Kaby Lake",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "cpu_brand": "Intel"
+  },
+  "45": {
+    "board_name": "Whitetip",
+    "cpu_generation": "6th",
+    "device_name": "Whitelabel Apollolake Chromebook",
+    "cpu_codename": "Apollolake",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS"
+  },
+  "154": {
+    "cpu_generation": "11th",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_codename": "Jasper Lake",
+    "device_name": "HP Chromebook x360 11 G4 EE",
+    "board_name": "Drawcia",
+    "cpu_brand": "Intel"
+  },
+  "96": {
+    "device_name": "HP Chromebook x360 14 inch",
+    "cpu_brand": "Intel",
+    "board_name": "Gimble",
+    "cpu_codename": "Alder Lake/Raptor Lake",
+    "avaliable_drivers": "CR50, EC, AlderLakeChipset, AX211-Wifi, XE-Graphics, Thunderbolt-4, Touchpad, Touchscreen, cSOF",
+    "cpu_generation": "12th"
+  },
+  "66": {
+    "board_name": "Dood",
+    "device_name": "Nec Chromebook Y2",
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Gemini Lake"
+  },
+  "150": {
+    "cpu_generation": "11th",
+    "device_name": "Lenovo Flex 3i-11/Ideapad Flex 3i",
+    "cpu_codename": "Jasper Lake",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "board_name": "Botenflex",
+    "cpu_brand": "Intel"
+  },
+  "161": {
+    "cpu_codename": "Jasper Lake",
+    "cpu_brand": "Intel",
+    "board_name": "Galnat",
+    "device_name": "Asus CX1 CX1102",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_generation": "11th"
+  },
+  "203": {
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_brand": "Intel",
+    "board_name": "Glk360",
+    "device_name": "Acer Spin 311",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake"
+  },
+  "16": {
+    "cpu_generation": "3rd",
+    "avaliable_drivers": "N/A",
+    "cpu_codename": "Ivy Bridge",
+    "board_name": "Stout",
+    "device_name": "Lenovo Thinkpad X131e Chromebook",
+    "cpu_brand": "Intel"
+  },
+  "75": {
+    "device_name": "Lenovo Ideapad 3",
+    "cpu_generation": "3rd",
+    "cpu_codename": "Gemini Lake",
+    "cpu_brand": "Intel",
+    "board_name": "Lick",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF"
+  },
+  "53": {
+    "device_name": "Asus Chromebook C423",
+    "board_name": "Rabbid",
+    "cpu_brand": "Intel",
+    "cpu_generation": "6th",
+    "avaliable_drivers": "CR50, EC, touchpad, cAVS",
+    "cpu_codename": "Apollolake"
+  },
+  "115": {
+    "device_name": "Asus Chromebook Flip CX5400",
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "cpu_generation": "11th",
+    "board_name": "Copano",
+    "cpu_brand": "Intel",
+    "cpu_codename": "Tiger Lake"
+  },
+  "122": {
+    "cpu_generation": "11th",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "cpu_codename": "Tiger Lake",
+    "board_name": "Voema",
+    "device_name": "Acer Chromebook Spin 514"
+  },
+  "24": {
+    "avaliable_drivers": "EC, touchpad, touchscreen, alc5645-audio",
+    "device_name": "White Label Braswell Chromebooks",
+    "cpu_generation": "5th",
+    "cpu_codename": "Braswell",
+    "cpu_brand": "Intel",
+    "board_name": "Relm"
+  },
+  "6": {
+    "avaliable_drivers": "EC, baytrail-chipset, touchpad, Maxim98090-audio",
+    "cpu_codename": "Bay Trail",
+    "board_name": "Orco",
+    "device_name": "Lenovo 100s Chromebook",
+    "cpu_brand": "Intel",
+    "cpu_generation": "4th"
+  },
+  "113": {
+    "cpu_brand": "Intel",
+    "cpu_codename": "Tiger Lake",
+    "cpu_generation": "11th",
+    "device_name": "FMV Chromebook 14F",
+    "avaliable_drivers": "CR50, EC, TigerLakeChipset, XE-Graphics, touchpad, touchscreen",
+    "board_name": "Chronicler"
+  },
+  "58": {
+    "cpu_generation": "6th",
+    "cpu_brand": "Intel",
+    "board_name": "Lava",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "device_name": "Acer Chromebook Spin 11 (CP-C11)",
+    "cpu_codename": "Apollolake"
+  },
+  "147": {
+    "device_name": "Lenovo 3i-15",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF",
+    "cpu_generation": "11th",
+    "cpu_brand": "Intel",
+    "board_name": "Blipper",
+    "cpu_codename": "Jasper Lake"
+  },
+  "204": {
+    "device_name": "Acer Chromebook 512 (C851/C851T)",
+    "board_name": "Sparky",
+    "cpu_generation": "3rd",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF",
+    "cpu_codename": "Gemini Lake"
+  },
+  "77": {
+    "device_name": "Lenovo C340",
+    "board_name": "Lazer",
+    "cpu_codename": "Gemini Lake",
+    "cpu_generation": "3rd",
+    "cpu_brand": "Intel",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cSOF"
+  },
+  "220": {
+    "cpu_brand": "AMD",
+    "board_name": "Aleena",
+    "cpu_codename": "Stoney Ridge",
+    "avaliable_drivers": "CR50, EC, bayhub-emmc, stoneyridge-gpu, touchpad, touchscreen, acp-audio",
+    "device_name": "Acer Chromebook 315 (CB315-2H)",
+    "cpu_generation": "7th"
+  },
+  "221": {
+    "device_name": "HP Chromebook 11A G6 EE/HP Chromebook 11A G8 EE",
+    "cpu_brand": "AMD",
+    "cpu_generation": "7th",
+    "cpu_codename": "Stoney Ridge",
+    "board_name": "Barla",
+    "avaliable_drivers": "CR50, EC, bayhub-emmc, stoneyridge-gpu, touchpad, touchscreen, acp-audio"
+  },
+  "190": {
+    "cpu_codename": "Kaby Lake",
+    "device_name": "Dell Inspiron Chromebook 14 7460",
+    "avaliable_drivers": "CR50, EC, touchpad, touchscreen, cAVS",
+    "board_name": "Vayne",
+    "cpu_brand": "Intel",
+    "cpu_generation": "8th"
+  },
+  "149": {
+    "cpu_brand": "Intel",
+    "cpu_codename": "Jasper Lake",
+    "cpu_generation": "11th",
+    "device_name": "Lenovo 500e Gen 3",
+    "board_name": "Boten",
+    "avaliable_drivers": "CR50, EC, jasperlakechipset, hd-graphics, touchpad, touchscreen, cSOF"
+  }
+}
