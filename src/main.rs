@@ -2,11 +2,11 @@
 
 use std::{collections::HashMap, fs};
 
-use serde_json::to_string;
+use serde_json::to_vec_pretty;
 use sqlite::Connection;
 
 fn main() {
-    let db = Connection::open("export.db").unwrap();
+    let db = Connection::open("chrultrabook.db").unwrap();
 
     let mut final_raw = Vec::new();
 
@@ -31,7 +31,7 @@ fn main() {
         true
     }).unwrap();
 
-    let data = to_string(&final_raw).unwrap();
+    let data = to_vec_pretty(&final_raw).unwrap();
 
     fs::write("data.json", data).unwrap();
 }
