@@ -8,7 +8,7 @@ use sqlite::Connection;
 fn main() {
     let db = Connection::open("export.db").unwrap();
 
-    let mut final_raw: HashMap<u64, HashMap<String, String>> = HashMap::new();
+    let mut final_raw = Vec::new();
 
     db.iterate("SELECT * FROM chromebooks", |data| {
         println!("START");
@@ -27,7 +27,7 @@ fn main() {
         });
         println!("END");
 
-        final_raw.insert(id, values);
+        final_raw.push(values);
         true
     }).unwrap();
 
