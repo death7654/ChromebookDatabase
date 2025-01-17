@@ -1,0 +1,26 @@
+[
+    {
+        "vcredist": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
+        "touchpad": "https://github.com/coolstar/driverinstallers/raw/master/crostouchpad/crostouchpad.4.1.6-installer.exe",
+        "touchscreen": "https://github.com/coolstar/driverinstallers/raw/master/crostouchscreen/crostouchscreen.2.9.5-installer.exe",
+        "EC": "https://github.com/coolstar/driverinstallers/raw/master/crosec/crosec.2.0.6-installer.exe",
+        "Wilco_EC": "https://github.com/coolstar/driverinstallers/raw/master/wilcoec/wilcoec.1.0.2-installer.exe",
+        "CR50": "https://github.com/coolstar/driverinstallers/raw/master/cr50/cr50.1.0.1-installer.exe",
+        "Maxim989090": "https://github.com/coolstar/driverinstallers/raw/master/max98090/max98090.1.0.4-installer.exe",
+        "Ryzen3000Audio": "https://github.com/coolstar/driverinstallers/raw/master/csaudioacp3x/csaudioacp3x.1.0.4-installer.exe",
+        "I2C_Link": "https://github.com/coolstar/driverinstallers/raw/master/gmbusi2c/gmbusi2c.1.0-installer.exe",
+        "ALC5645": "https://coolstar.org/chromebook/downloads/drivers/alc5645%20audio.exe",
+        "Cyan_Audio": "https://github.com/coolstar/driverinstallers/raw/master/max98090-r11/max98090-r11.1.0.0-installer.exe",
+        "Creative_Audio": "https://www.dell.com/support/home/en-in/drivers/DriversDetails?driverId=4t7p8",
+        "AX211_Wifi": "https://www.intel.com/content/www/us/en/download/19351/intel-wireless-wi-fi-drivers-for-windows-10-and-windows-11.html",
+        "Broadwell_Rapid_Storage": "https://downloadcenter.intel.com/download/25910/Intel-Rapid-Storage-Technology-for-Intel-NUC?product=87570",
+        "Cometlake_Rapid_Storage": "https://www.intel.com/content/www/us/en/download/19512/intel-rapid-storage-technology-driver-installation-software-with-intel-optane-memory-10th-and-11th-gen-platforms.html",
+        "XE_Graphics": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphics-windows.html?wapkw=xe-graphics",
+        "Jasperlake_Chipset": "https://www.intel.com/content/www/us/en/download/776137/intel-7th-10th-gen-processor-graphics-windows.html?wapkw=intel%20hd",
+        "AMD_Chipset": "https://www.amd.com/en/support/downloads/drivers.html/chipsets/laptop-chipsets/amd-ryzen-and-athlon-mobile-chipset.html",
+        "AMD_Graphics": "https://www.amd.com/en/support/download/drivers.html",
+        "Chrultrabook_Tools": "https://github.com/death7654/Chrultrabook-Tools/releases/download/3.0.2/chrultrabook-tools_3.0.2_x64-setup.exe",
+        "Purchase_Driver_Portal": "https://coolstar.org/chromebook/driverlicense/login.html"
+
+    }
+]
