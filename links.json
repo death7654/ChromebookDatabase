@@ -22,7 +22,7 @@
         "AMD_Chipset": "https://www.amd.com/en/support/downloads/drivers.html/chipsets/laptop-chipsets/amd-ryzen-and-athlon-mobile-chipset.html",
         "AMD_Graphics": "https://www.amd.com/en/support/download/drivers.html",
         "Intel_Chipset_PS1": "https://raw.githubusercontent.com/coolstar/driverinstallers/master/autoinstall-intel.zip",
-        "Chrultrabook_Tools": "https://github.com/death7654/Chrultrabook-Tools/releases/download/3.0.2/chrultrabook-tools_3.0.2_x64-setup.exe",
+        "Chrultrabook_Tools": "https://github.com/death7654/Chrultrabook-Tools/releases/download/3.0.3/chrultrabook-tools_3.0.3_x64-setup.exe",
         "Purchase_Driver_Portal": "https://coolstar.org/chromebook/driverlicense/login.html"
 
     }
